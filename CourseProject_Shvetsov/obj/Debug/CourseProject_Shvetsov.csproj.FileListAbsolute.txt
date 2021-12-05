@@ -1,0 +1,10 @@
+C:\Users\olego\source\repos\CourseProject_Shvetsov\CourseProject_Shvetsov\bin\Debug\CourseProject_Shvetsov.exe.config
+C:\Users\olego\source\repos\CourseProject_Shvetsov\CourseProject_Shvetsov\bin\Debug\CourseProject_Shvetsov.exe
+C:\Users\olego\source\repos\CourseProject_Shvetsov\CourseProject_Shvetsov\bin\Debug\CourseProject_Shvetsov.pdb
+C:\Users\olego\source\repos\CourseProject_Shvetsov\CourseProject_Shvetsov\obj\Debug\CourseProject_Shvetsov.csprojAssemblyReference.cache
+C:\Users\olego\source\repos\CourseProject_Shvetsov\CourseProject_Shvetsov\obj\Debug\Taxopark.MainForm.resources
+C:\Users\olego\source\repos\CourseProject_Shvetsov\CourseProject_Shvetsov\obj\Debug\CourseProject_Shvetsov.Properties.Resources.resources
+C:\Users\olego\source\repos\CourseProject_Shvetsov\CourseProject_Shvetsov\obj\Debug\CourseProject_Shvetsov.csproj.GenerateResource.cache
+C:\Users\olego\source\repos\CourseProject_Shvetsov\CourseProject_Shvetsov\obj\Debug\CourseProject_Shvetsov.csproj.CoreCompileInputs.cache
+C:\Users\olego\source\repos\CourseProject_Shvetsov\CourseProject_Shvetsov\obj\Debug\CourseProject_Shvetsov.exe
+C:\Users\olego\source\repos\CourseProject_Shvetsov\CourseProject_Shvetsov\obj\Debug\CourseProject_Shvetsov.pdb
